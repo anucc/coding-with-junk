@@ -1,26 +1,4 @@
 # 2016 Hacking Course Ideas
-
-## Hero Projects
-
-- Controllers and Computing
-    - [OneHand 20% Chording Keyboard](http://deskthority.net/workshop-f7/onehand-20-keyboard-t6617-120.html)
-    - [Arduino Controlled Apple 1 Replica Computer](http://dave.cheney.net/2014/12/26/make-your-own-apple-1-replica)
-- Health
-    - [Multi-sensor data recorder](https://hackaday.io/project/1395-open-source-science-tricorder)
-- Fitness
-
-- Art
-    - [Button Grid Music Controller](http://flipmu.com/work/arduinome/)
-    - [Programmable Effects Pedal](http://hackaday.com/2012/11/30/guitar-foot-controller-uses-dsp-for-audio-effects/)
-    - [Hackable Digital Synthesiser](https://ccrma.stanford.edu/~eberdahl/Papers/NIME2014EmbeddedAcousticInstruments.pdf)
-    - [Sound and Light Trail Makers](https://hackaday.io/project/157-center-flee)
-- Bikes
-- Environment
-- Fun
-    - [Portable Games Console](https://youtu.be/zrEj1aQRbpw)
-    - [Cuddly Companion Robot](http://www.nickstedman.com/art/adb.html)
-- Home Automation
-    - [Home RGB Lighting System]()
     
 ## Course Names
 
@@ -54,3 +32,24 @@ forms of artistic expression and entertainment.
 
 ## Course Outline
 
+## Hero Projects
+
+- Controllers and Computing
+    - [OneHand 20% Chording Keyboard](http://deskthority.net/workshop-f7/onehand-20-keyboard-t6617-120.html)
+    - [Arduino Controlled Apple 1 Replica Computer](http://dave.cheney.net/2014/12/26/make-your-own-apple-1-replica)
+- Health
+    - [Multi-sensor data recorder](https://hackaday.io/project/1395-open-source-science-tricorder)
+- Fitness
+
+- Art
+    - [Button Grid Music Controller](http://flipmu.com/work/arduinome/)
+    - [Programmable Effects Pedal](http://hackaday.com/2012/11/30/guitar-foot-controller-uses-dsp-for-audio-effects/)
+    - [Hackable Digital Synthesiser](https://ccrma.stanford.edu/~eberdahl/Papers/NIME2014EmbeddedAcousticInstruments.pdf)
+    - [Sound and Light Trail Makers](https://hackaday.io/project/157-center-flee)
+- Bikes
+- Environment
+- Fun
+    - [Portable Games Console](https://youtu.be/zrEj1aQRbpw)
+    - [Cuddly Companion Robot](http://www.nickstedman.com/art/adb.html)
+- Home Automation
+    - [Home RGB Lighting System]()
