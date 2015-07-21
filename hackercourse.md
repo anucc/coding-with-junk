@@ -3,20 +3,24 @@
 ## Course Names
 
 - Coding the physical world.
+- Computing with junk
+- Tangible/digital bits
 
-## Spiel
+## Overview
 
 This course will introduce students to the process of product
 development afforded by the new generation of single-board computers
 and prototyping boards that have become available. Students will
-design smart hardware devices, using Raspberry Pi computers, Arduino
-microcontrollers, sensors, and servos as the computing core of their
-designs. They will create prototypes of their devices in maker-space
-style labs, where they will rapidly sketch in hardware using upcycled
-cardboard and other scavenged materials. Their designs will bring
-computing power to bear on everyday problems like fitness, health,
-home-automation, and emphasise the power of the maker to create new
-forms of artistic expression and entertainment.
+design a smart hardware "hero" device using Raspberry Pi computers,
+Arduino microcontrollers, sensors, and servos as the computing core of
+their designs. They will create prototypes of their devices in
+maker-space style labs, where they will rapidly sketch in hardware
+using upcycled cardboard and other scavenged materials. Their designs
+will bring computing power to bear on everyday problems like fitness,
+health, home-automation, and emphasise the power of the maker to
+create new forms of artistic expression and entertainment.
+
+*Maybe make more of the "junk" aspect?*
 
 ## Educational Outcomes
 
@@ -27,8 +31,8 @@ forms of artistic expression and entertainment.
 - Produce basic circuits to connect sensors and actuators to
   microcontrollers using breadboards or prototyping hardware.
 - Produce physical prototypes of devices using upcycled materials.
-- Evalutes prototype devices with respect to design criteria and
-  real-world usage.
+- Iteratively evaluate and refine prototype devices through a
+  user-centred design process.
 
 ## Course Outline
 
@@ -40,7 +44,7 @@ forms of artistic expression and entertainment.
 - Health
     - [Multi-sensor data recorder](https://hackaday.io/project/1395-open-source-science-tricorder)
 - Fitness
-
+    - [Jacket/backpack-mounted LED display for cyclists/runners](http://www.wired.com/2010/09/cyclists-backpack-shows-led-turn-signals/)
 - Art
     - [Button Grid Music Controller](http://flipmu.com/work/arduinome/)
     - [Programmable Effects Pedal](http://hackaday.com/2012/11/30/guitar-foot-controller-uses-dsp-for-audio-effects/)
@@ -48,6 +52,8 @@ forms of artistic expression and entertainment.
     - [Sound and Light Trail Makers](https://hackaday.io/project/157-center-flee)
 - Bikes
 - Environment
+    - [Raspberry Pi night-vision camera](http://www.mcmelectronics.com/product/RASPBERRY-PI-/28-18030)
+    - [Raspberry Pi baby monitor](https://www.raspberrypi.org/products/camera-module/)
 - Fun
     - [Portable Games Console](https://youtu.be/zrEj1aQRbpw)
     - [Cuddly Companion Robot](http://www.nickstedman.com/art/adb.html)
