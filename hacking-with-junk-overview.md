@@ -32,7 +32,24 @@ create new forms of artistic expression and entertainment.
   microcontrollers using breadboards or prototyping hardware.
 - Produce physical prototypes of devices using upcycled materials.
 - Iteratively evaluate and refine prototype devices through a
-  user-centred design process.
+user-centred design process.
+
+
+## ACM/IEEE Bodies of Knowledge
+
+### Core
+
+- Systems (integrating hardware, software, network connectivity)
+- Software Engineering (requirements gathering, stakeholder
+  engagement, continuous evaluation & delivery)
+
+### Electives
+
+- HCI/New Interactive Technologies
+- HCI/Design-oriented HCI
+- HCI/Mixed, Augmented & Virtual Reality
+- PBD/Mobile Platforms
+- PBD/Cloud  (maybe spin up an AWS EC2 instance to talk to)
 
 ## Course Outline
 
