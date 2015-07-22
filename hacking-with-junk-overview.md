@@ -67,15 +67,16 @@ product designs.
 
 ### Raspberry Pi
 
-Pros | Cons
-Cheap | high power
-Well-known | no wifi
-audio onboard | no ethernet on Model A
-video onboard | tricky to deal with GPIO
-USB onboard | no bluetooth
+Pros         | Cons
+-------------|-------------------
+Cheap        | high power
+Well-known   | no wifi
+audio onboard| no ethernet on Model A
+video onboard| tricky to deal with GPIO
+USB onboard  |no bluetooth
 lots of GPIO |
 lots of accessories |
-available in large quantitites
+available in large quantitites |
 
 Test budget for one student:
 
