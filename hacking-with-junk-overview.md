@@ -11,7 +11,7 @@
 This course will introduce students to the process of product
 development afforded by the new generation of single-board computers
 and prototyping boards that have become available. Students will
-design a smart hardware "hero" device using Raspberry Pi computers,
+design a smart hardware device using Raspberry Pi computers,
 Arduino microcontrollers, sensors, and servos as the computing core of
 their designs. They will create prototypes of their devices in
 maker-space style labs, where they will rapidly sketch in hardware
@@ -36,7 +36,7 @@ create new forms of artistic expression and entertainment.
 
 ## Course Outline
 
-## Hero Projects
+## Inspirational Project Ideas
 
 - Controllers and Computing
     - [OneHand 20% Chording Keyboard](http://deskthority.net/workshop-f7/onehand-20-keyboard-t6617-120.html)
@@ -59,3 +59,34 @@ create new forms of artistic expression and entertainment.
     - [Cuddly Companion Robot](http://www.nickstedman.com/art/adb.html)
 - Home Automation
     - [Home RGB Lighting System]()
+
+## Hardware kits
+
+Each student should have a kit available for experiments in labs and
+product designs.
+
+### Raspberry Pi
+
+Pros | Cons
+Cheap | high power
+Well-known | no wifi
+audio onboard | no ethernet on Model A
+video onboard | tricky to deal with GPIO
+USB onboard | no bluetooth
+lots of GPIO |
+lots of accessories |
+available in large quantitites
+
+Test budget for one student:
+
+- Raspberry Pi A+ 256MB - 27.78
+- PSU - 15.65
+- Adafruit GPIO breakout 9.89
+- WiFi module - 14.57
+- Servo - 12.14
+
+need some kind of multi-parts experimentation kit.
+
+- Stepper/DC motor HAT - 22.50
+
+### 
