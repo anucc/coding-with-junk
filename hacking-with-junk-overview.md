@@ -10,17 +10,18 @@
 
 This course will introduce students to the process of product
 development afforded by the new generation of single-board computers
-and prototyping boards that have become available. Students will
-design a smart hardware device using Raspberry Pi computers,
+and prototyping boards that have become available. _mention IoT, Edge here_. 
+Students will design a smart hardware device using a single-board computers (Raspberry Pi),
 Arduino microcontrollers, sensors, and servos as the computing core of
 their designs. They will create prototypes of their devices in
-maker-space style labs, where they will rapidly sketch in hardware
+**maker-space style labs**, where they will rapidly sketch in hardware
 using upcycled cardboard and other scavenged materials. Their designs
 will bring computing power to bear on everyday problems like fitness,
 health, home-automation, and emphasise the power of the maker to
 create new forms of artistic expression and entertainment.
 
 *Maybe make more of the "junk" aspect?*
+*Maybe not make more of "junk" aspect---how would this fit into the learning outcomes?*
 
 ## Educational Outcomes
 
@@ -30,10 +31,10 @@ create new forms of artistic expression and entertainment.
   computers to control their device and connect to web-based services.
 - Produce basic circuits to connect sensors and actuators to
   microcontrollers using breadboards or prototyping hardware.
+- Explore ML inference and data science in low-power/real-time environments.
 - Produce physical prototypes of devices using upcycled materials.
 - Iteratively evaluate and refine prototype devices through a
 user-centred design process.
-
 
 ## ACM/IEEE Bodies of Knowledge
 
@@ -52,6 +53,9 @@ user-centred design process.
 - PBD/Cloud  (maybe spin up an AWS EC2 instance to talk to)
 
 ## Course Outline
+
+_do this_
+
 
 ## Inspirational Project Ideas
 
@@ -97,14 +101,12 @@ available in large quantitites |
 
 Test budget for one student:
 
-- Raspberry Pi A+ 256MB - 27.78
-- PSU - 15.65
-- Adafruit GPIO breakout 9.89
-- WiFi module - 14.57
-- Servo - 12.14
+- RPi 3B+ kit 100AUD
 
 need some kind of multi-parts experimentation kit.
 
-- Stepper/DC motor HAT - 22.50
-
-### 
+- Actuators: go with servos (connect straight to GPIO), not special HATs
+- Sensors, need some arduinos, or ADCs on breakout boards, cheap on AliExpress/DFRobot
+- Interfacing with PIR sensors etc, can we have a sponsor or commercial partner help with a big kit of sensors?
+- What kind of boards to get? RPis are awesome, but so is coding straight on hardware on ESP32. Is there an ARM competitor with WiFi and bluetooth that could be good? For this course, should it be board-agnostic, or focussed on a single system?
+- Good to include some ML ideas. Realistic in terms of real-world use, but also helps to make a case for research-led research.
